@@ -5,12 +5,22 @@
 /.pnp
 .pnp.js
 
+
+
 # testing
 /coverage
 
 # production
 /build
 
+
+#Files:
+/channel
+/test.json
+/test1.json
+/.env
+/test2.json
+/test5.json
 # misc
 .DS_Store
 .env.local
@@ -21,3 +31,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
