@@ -19,7 +19,7 @@ const ChannelDetail = () => {
     })
 
   }, [id])
-  // &q=${searchTerm}  UC1NF71EwP41VdjAU1iXdLkw
+ 
   console.log("ChannelDetail:", channelDetail)
   console.log("ChannelVideos", videos)
   if (!channelDetail) return 'Loading...'
